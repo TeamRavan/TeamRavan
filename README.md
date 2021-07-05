@@ -1,5 +1,10 @@
 <h1 align="centre"> 𝐑𝐀𝐕𝐀𝐍 </h1>
 
+
+
+<p align="center"><a href="https://t.me/TeamRavanSupport"><img src="https://telegra.ph/file/50a3c04b5263929313649.jpg" width="10000"></a></p> 
+<h4 align="center">A Powerful, Smart And Simple Management Bot to safeguard your group from spammers.</h4>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![LICENSE](https://img.shields.io/github/license/TeamRavan/RAVAN-ROBOT?style=for-the-badge&logo=appveyor)&nbsp;
 ![Contributors](https://img.shields.io/github/contributors/TeamRavan/RAVAN-ROBOT?style=for-the-badge&logo=appveyor)&nbsp;
 ![Repository Size](https://img.shields.io/github/repo-size/TeamRavan/RAVAN-ROBOT?style=for-the-badge&logo=appveyor)
@@ -10,9 +15,6 @@
 ![Forks](https://img.shields.io/github/forks/TeamRavan/RAVAN-ROBOT?style=for-the-badge&logo=appveyor)&nbsp;
 ![Stars](https://img.shields.io/github/stars/TeamRavan/RAVAN-ROBOT?style=for-the-badge&logo=appveyor)
 
-
-<p align="center"><a href="https://t.me/TeamRavanSupport"><img src="https://telegra.ph/file/50a3c04b5263929313649.jpg" width="10000"></a></p> 
-<h4 align="center">A Powerful, Smart And Simple Management Bot to safeguard your group from spammers.</h4>
 
 ## OFFICIAL BOT
 
